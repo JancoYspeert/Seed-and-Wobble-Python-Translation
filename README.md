@@ -24,10 +24,15 @@ which are used in the programs.
 Takes about 330 seconds to run on testing data - hopefully this can be improved upon.
 
 Command-line for testing is as follows: 
+
 Version 0:
+
 python SAndW.py proteinA_v1_combinatorial.txt 8 patterns_8of10.txt patterns_4x44k_all_8mer.txt Test
+
 Version 1 + 2: 
+
 python SAndW.py proteinA_v1_combinatorial.txt 8 patterns_8of10.txt patterns_4x44k_all_8mer.txt Test F T T
+
 The files used for testing are available in the TestFiles directory.
 Tested on an E-Machines laptop, intel core I5-430M 2.27 GHz * 4, with 4 GB ram. Tested in Ubuntu 14.04, Python v 2.7.6
 
