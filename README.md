@@ -5,7 +5,7 @@ Please note that code was written on various machines and various different edit
 and sometimes even between different functions in SAndW.py and seedAndWobbleModsLim.py is not uniform. This has not given me any run-time issues,
 but will be cleaned up in future.
 
-Version 0 (NOt included on Git-hub) is my first working translation of the PERL seed and wobble into python [perhaps with slight edits].
+Version 0 (Not included on Git-hub) is my first working translation of the PERL seed and wobble into python [perhaps with slight edits].
 It is more procedural than object oriented.
 Contains SAndW.py - the main program - and seedAndWobbleModsLim.py - the modules required for SAndW.py
 Takes about 280 seconds to run on testing data*
